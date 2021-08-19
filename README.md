@@ -1,2 +1,1 @@
-# Greek-Client
-Lol-GreekClient
+# Lol-GreekClient
